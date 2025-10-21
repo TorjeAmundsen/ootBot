@@ -87,10 +87,10 @@ to a lot of the game, giving you good foundations for other runs. It\'s long, bu
 this is a great starting point. This category has a lot of cutscenes, but also a ton of gameplay to balance it out. \
 Don\'t confuse it with Glitchless Any%, which is still great but much harder! Check the glitchless routing \
 channel pins for route docs, savestates, and other resources.\n\n\
-Defeat Ganon (No SRM): If you want a short run without SRM, this one is perfect. The most \
-beginner-friendly route gets the Kakariko bottle and uses an older wrong warp from Deku Tree. While outdated, it\'s still a \
-great place to start. The fastest route, called Ganonfloor, is more advanced and uses a wrong warp from Dodongo\'s Cavern. \
-Tutorials for both routes are in the defeat-ganon Q/A channel pins!\n\n\
+Defeat Ganon (Classic Kakariko Route): If you want a short run without SRM, this one is perfect. The most \
+beginner-friendly route gets the Kokiri Sword, gets the Kakariko cucco bottle and wrong warps from Deku Tree. \
+A tutorial for the route is in the defeat-ganon Q/A channel pins! Note that the linked tutorial \
+does Triple Slash Clip for Collapse Skip near the end, which is not allowed in the Classic Kakariko route ruleset.\n\n\
 You can start with any category, these are just the most commonly suggested ones. \
 In the end you should run what you find most interesting. There are also other non-RTA options like Bingo!')
 
@@ -263,3 +263,4 @@ continually make Link face forward, ruining whatever wall angle you were trying 
 
 def setup(bot):
 	bot.add_cog(Faq(bot))
+
