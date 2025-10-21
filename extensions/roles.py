@@ -71,6 +71,7 @@ hundo         - 100%
 glitchless    - Glitchless
 defeat-ganon  - Defeat Ganon
 noww          - No Wrong Warp
+nocturne-rta  - Nocturne RTA
 bingo         - Bingo
 extensions    - Category Extensions
 mq            - Master Quest
@@ -79,3 +80,4 @@ mq            - Master Quest
 
 def setup(bot):
 	bot.add_cog(Roles(bot))
+
